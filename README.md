@@ -1,3 +1,11 @@
+元ネタ:https://github.com/bdwgc/bdwgc  
+の日本語訳(機械翻訳)。細かい所がわかりにくいので翻訳にかけてみた  
+  
+  
+  
+  
+  
+  
 # ベーム・デマース・ヴァイザー ガベージ コレクター
 
 [![Travis-CI ビルド ステータス](https://app.travis-ci.com/bdwgc/bdwgc.svg?branch=master)](https://app.travis-ci.com/github/bdwgc/bdwgc)
